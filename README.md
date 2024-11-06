@@ -59,20 +59,65 @@ const YourName = {
 
 ## 📊 GitHub Analytics
 
+### 📈 Activity Graph
+[![Nikitha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikithakeshan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🌟 GitHub Stats Dashboard
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithakeshan&theme=tokyonight" alt="Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikithakeshan&theme=tokyonight" alt="Repos per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikithakeshan&theme=tokyonight" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikithakeshan&theme=tokyonight" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikithakeshan&theme=tokyonight" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
+
+### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikithakeshan&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikithakeshan&theme=tokyonight" />
 </p>
 
+### 📚 Most Used Languages
+<details>
+  <summary>Click to expand!</summary>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithakeshan&layout=compact&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithakeshan&layout=donut&theme=tokyonight" />
+  </p>
+</details>
+
+### 🏆 GitHub Profile Trophy
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikithakeshan&theme=tokyonight&column=-1&margin-w=15&margin-h=15" />
 </p>
 
-### Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
+### 📊 Contribution Statistics
+<details>
+  <summary>Detailed Stats</summary>
+  
+  <!-- Contribution Metrics -->
+  ![Metrics](https://metrics.lecoq.io/nikithakeshan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+  
+  <!-- Contribution Snake -->
+  ![Snake animation](https://github.com/nikithakeshan/nikithakeshan/blob/output/github-contribution-grid-snake.svg)
+</details>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+### 🕐 WakaTime Stats
+<details>
+  <summary>Weekly Development Breakdown</summary>
+  
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
