@@ -81,7 +81,8 @@ I'm a passionate **Full-Stack Software Engineer in training** with a strong foun
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nikithaKesh.github.profile" alt="Visitor Count" />
 </div>
 
----
+![Visitor Badge](https://komarev.com/ghpvc/?username=nikithaKesh)
+
 
 ### 🌐 Connect with Me:
 
