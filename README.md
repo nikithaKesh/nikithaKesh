@@ -32,7 +32,7 @@ I'm a passionate **Full-Stack Software Engineer in training** with a strong fron
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&theme=radical" alt="Top Languages" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=radical" alt="Profile Details" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=nikithaKesh&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikithaKesh&theme=radical" alt="GitHub Activity Graph" />
 </div>
 
 
