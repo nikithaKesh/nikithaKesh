@@ -1,123 +1,44 @@
-# Nikitha Keshan
+# Hi there! 👋 I'm Nikitha Keshan
 
-## Cloud Engineer
+I'm a passionate **Full-Stack Software Engineer in training** with a strong front-end and back-end technologies foundation. As a student at the **University of Colombo School of Computing (UCSC)**, I’m focused on leveraging my education and hands-on experience to build dynamic, user-centric web applications.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+### About Me:
+- 🔭 **Actively Developing**: I’m currently building web projects that integrate the latest in design and development trends, focusing on scalable and high-performance applications.
+- 🎓 **Academic Background**: I am studying Software Engineering at UCSC, deepening my knowledge in software architecture, data structures, and algorithms.
+- 🌱 **Eager Learner**: Always exploring new frameworks, tools, and technologies in the ever-evolving field of full-stack development.
+- 👥 **Team Player and Collaborator**: I enjoy working in collaborative environments, sharing ideas, and contributing to both personal and team projects.
+- 📈 **Career Focus**: Aiming to specialize in full-stack engineering with expertise in modern tech stacks, DevOps, and cloud solutions.
 
-## 🔗 Connect With Me
-- 🌐 [Personal Website](https://your-website.com)
-- 📱 [TikTok](https://tiktok.com/@yourusername)
-- 📺 [YouTube](https://youtube.com/yourusername)
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+### 🌐 Connect with me:
 
-## 👤 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikithakesh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikithakesh)
 
-```javascript
-const YourName = {
-    location: "Your Location",
-    education: "Your Degree",
-    roles: ["Software Engineer", "Web Developer", "Tech Enthusiast"],
-    currentFocus: ["Web Development", "Cloud Computing", "AI/ML"],
-    communities: {
-        founder: ["Your Community"],
-        member: ["Community 1", "Community 2"]
-    },
-    lifePhilosophy: "Your life motto 🚀"
-};
-```
+### 💻 Languages and Tools:
 
-## 🛠️ Tech Arsenal
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### Core Technologies
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 📊 GitHub Stats:
 
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=radical" alt="Profile Details" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=nikithaKesh&theme=redical" alt="GitHub Activity Graph" />
+</div>
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Tools & Systems
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+---
 
-## 📊 GitHub Analytics
+🌟 **Fun Fact**: I’m an avid learner and a tech enthusiast who loves to take on new challenges and build meaningful projects.
 
-### 📈 Activity Graph
-[![Nikitha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikithakeshan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+📫 **How to reach me**: [nikithakeshan@gmail.com](mailto:nikithakeshan@gmail.com)
 
-### 🌟 GitHub Stats Dashboard
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithakeshan&theme=tokyonight" alt="Profile Details" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikithakeshan&theme=tokyonight" alt="Repos per Language" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikithakeshan&theme=tokyonight" alt="Most Commit Language" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikithakeshan&theme=tokyonight" alt="Stats" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikithakeshan&theme=tokyonight" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-
-### ⚡ GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nikithakeshan&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikithakeshan&theme=tokyonight" />
-</p>
-
-### 📚 Most Used Languages
-<details>
-  <summary>Click to expand!</summary>
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithakeshan&layout=compact&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithakeshan&layout=donut&theme=tokyonight" />
-  </p>
-</details>
-
-### 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikithakeshan&theme=tokyonight&column=-1&margin-w=15&margin-h=15" />
-</p>
-
-### 📊 Contribution Statistics
-<details>
-  <summary>Detailed Stats</summary>
-  
-  <!-- Contribution Metrics -->
-  ![Metrics](https://metrics.lecoq.io/nikithakeshan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-  
-  <!-- Contribution Snake -->
-  ![Snake animation](https://github.com/nikithakeshan/nikithakeshan/blob/output/github-contribution-grid-snake.svg)
-</details>
-
-### 🕐 WakaTime Stats
-<details>
-  <summary>Weekly Development Breakdown</summary>
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</details>
