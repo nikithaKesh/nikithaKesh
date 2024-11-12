@@ -51,5 +51,6 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 
 ---
 
-
-"First, solve the problem. Then, write the code." — John Johnson
+<p style="font-family: 'Dancing Script', cursive; font-size: 20px; font-weight: bold; color: #333;">
+   "First, solve the problem. Then, write the code." — John Johnson
+</p>
