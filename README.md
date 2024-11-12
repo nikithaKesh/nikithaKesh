@@ -51,6 +51,6 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 
 ---
 
-<p style="font-family: 'Dancing Script', cursive; font-size: 20px; font-weight: bold; color: #333;">
+<p style="sans-serif: 'Bonheur Royale', cursive; font-size: 20px; font-weight: italic; color: #333;">
    "First, solve the problem. Then, write the code." — John Johnson
 </p>
