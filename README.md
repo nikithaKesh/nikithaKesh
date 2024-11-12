@@ -16,9 +16,9 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 
 ### 📂 Featured Repositories
 
-- [🌸 **Growing Flower**]({{ growing_flower_repo_url }}): *Interactive web app using React and CSS animations.*
-- [🎮 **Gaming Site**]({{ gaming_site_repo_url }}): *Gaming site with API integration, user profiles.*
-- [📘 **UCSC-BIT-Notes**]({{ ucsc_bit_notes_repo_url }}): *Study notes for UCSC BIT program.*
+- [🌸 **Growing Flower**](https://github.com/nikithaKesh/growing-flower): *Interactive web app using React and CSS animations.*
+- [🎮 **Gaming Site**](https://github.com/nikithaKesh/gaming-site): *Gaming site with API integration, user profiles.*
+- [📘 **UCSC-BIT-Notes**](https://github.com/nikithaKesh/UCSC-BIT-Notes): *Study notes for UCSC BIT program.*
 
 </details>
 
@@ -28,27 +28,29 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 - **Milestones**: 100+ Stars, 50+ Repositories
 
 ### ⚙️ Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Neuroscience](https://img.shields.io/badge/Neuroscience-FF6347?style=for-the-badge&logo=neuroscience&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
 <div align="center" style="background-color: #1A1D21; color: #E2E8F0; padding: 20px; border-radius: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api?username={{ github_username }}&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
-   <img src="https://streak-stats.demolab.com/?user={{ github_username }}&theme=radical" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
+   <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
 <div align="center" style="background-color: #1A1D21; color: #E2E8F0; padding: 20px; border-radius: 10px; margin-top: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ github_username }}&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={{ github_username }}&theme=radical" alt="Profile Details" style="border-radius: 10px; margin-top: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=radical" alt="Profile Details" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
 ---
 
 👋 Thanks for visiting! Follow my journey:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]({{ linkedin_url }}) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]({{ twitter_url }}) [![Bento](https://img.shields.io/badge/Bento-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTIwIDI0MEM1My40IDQwIDAgMCAwIDEyMCAwYzY2LjYgMCAxMjAgNTMuNCAxMjAgMTIwcy01My40IDEyMC0xMjAgMTIwem0wLTIyMGMtNTUgMC05MCA0NC45LTkwIDkwczM1IDkwIDkwIDkwYzUyLjUgMCA5MC00NC45IDkwLTkwcy00NC45LTkwLTkwLTkwem0xMiA5MmgzMnYzMGgtMzJ2LTMwem0tMjQtMjZoMjB2NTBoLTIwdjUwSDg4di01MGgyMHYtNTB6Ii8+PC9zdmc+)]({{ bento_url }})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikithakesh) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_zo_no_) [![Bento](https://img.shields.io/badge/Bento-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTIwIDI0MEM1My40IDQwIDAgMCAwIDEyMCAwYzY2LjYgMCAxMjAgNTMuNCAxMjAgMTIwcy01My40IDEyMC0xMjAgMTIwem0wLTIyMGMtNTUgMC05MCA0NC45LTkwIDkwczM1IDkwIDkwIDkwYzUyLjUgMCA5MC00NC45IDkwLTkwcy00NC45LTkwLTkwLTkwem0xMiA5MmgzMnYzMGgtMzJ2LTMwem0tMjQtMjZoMjB2NTBoLTIwdjUwSDg4di01MGgyMHYtNTB6Ii8+PC9zdmc+)](https://bento.me/nikithakesh)
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+<p style="sans-serif: 'Bonheur Royale', cursive; font-size: 20px; font-weight: italic; color: #333;">
+   "First, solve the problem. Then, write the code." — John Johnson
+</p>
