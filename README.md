@@ -28,14 +28,14 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 ---
 
 ### 📊 GitHub Stats:
-<div align="center" style="background-color: #72BF78; color: #FEFF9F; padding: 20px; border-radius: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&bg_color=72BF78&title_color=A0D683&text_color=FEFF9F&icon_color=D3EE98" alt="GitHub Stats" style="border-radius: 10px;"/>
-   <img src="https://streak-stats.demolab.com/?user=nikithaKesh&background=72BF78&stroke=A0D683&ring=FEFF9F&fire=D3EE98&currStreakLabel=FEFF9F" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
+<div align="center" style="background-color: #2A3D66; color: #D789D7; padding: 20px; border-radius: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&bg_color=2A3D66&title_color=9D65C9&text_color=D789D7&icon_color=5D54A4" alt="GitHub Stats" style="border-radius: 10px;"/>
+   <img src="https://streak-stats.demolab.com/?user=nikithaKesh&background=2A3D66&stroke=9D65C9&ring=D789D7&fire=5D54A4&currStreakLabel=D789D7" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
-<div align="center" style="background-color: #72BF78; color: #FEFF9F; padding: 20px; border-radius: 10px; margin-top: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&bg_color=72BF78&title_color=A0D683&text_color=FEFF9F" alt="Top Languages" style="border-radius: 10px;"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=radical&bg_color=72BF78&text_color=FEFF9F&title_color=A0D683" alt="Profile Details" style="border-radius: 10px; margin-top: 10px;"/>
+<div align="center" style="background-color: #2A3D66; color: #D789D7; padding: 20px; border-radius: 10px; margin-top: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&bg_color=2A3D66&title_color=9D65C9&text_color=D789D7" alt="Top Languages" style="border-radius: 10px;"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=radical&bg_color=2A3D66&text_color=D789D7&title_color=9D65C9" alt="Profile Details" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
 ---
