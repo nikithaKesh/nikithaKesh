@@ -29,13 +29,13 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 
 ### 📊 GitHub Stats:
 <div align="center" style="background-color: #151515; color: #EEEEEE; padding: 20px; border-radius: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=151515&title_color=edf2f2&text_color=EEEEEE&icon_color=76ABAE" alt="GitHub Stats" style="border-radius: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=151515&title_color=edf2f2&text_color=9f9f9f&icon_color=76ABAE" alt="GitHub Stats" style="border-radius: 10px;"/>
    <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical&background=151515&border=31363F&color=edf2f2" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
 <div align="center" style="background-color: #151515; color: #EEEEEE; padding: 20px; border-radius: 10px; margin-top: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&theme=dark&bg_color=151515&title_color=edf2f2&text_color=EEEEEE&icon_color=76ABAE" alt="Top Languages" style="border-radius: 10px;"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=dark&bg_color=151515&title_color=edf2f2&text_color=EEEEEE&icon_color=76ABAE" alt="Profile Details" style="border-radius: 10px; margin-top: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&theme=dark&bg_color=151515&title_color=edf2f2&text_color=9f9f9f&icon_color=76ABAE" alt="Top Languages" style="border-radius: 10px;"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=dark&bg_color=151515&title_color=edf2f2&text_color=9f9f9f&icon_color=76ABAE" alt="Profile Details" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
 
