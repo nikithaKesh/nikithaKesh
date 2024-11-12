@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 
 ### 📂 Featured Repositories
 
-- [🌸 **Growing Flower**](https://github.com/nikithaKesh/growing-flower): *Interactive web app using React and CSS animations.*
+- [🌸 **Growingfocusingttps://github.com/nikithaKesh/growing-flower): *Interactive web app using React and CSS animations.*
 - [🎮 **Gaming Site**](https://github.com/nikithaKesh/gaming-site): *Gaming site with API integration, user profiles.*
 - [📘 **UCSC-BIT-Notes**](https://github.com/nikithaKesh/UCSC-BIT-Notes): *Study notes for UCSC BIT program.*
 
@@ -43,9 +43,3 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 👋 Thanks for visiting! Follow my journey:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikithakesh) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_zo_no_) [![Bento](https://img.shields.io/badge/Bento-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTIwIDI0MEM1My40IDQwIDAgMCAwIDEyMCAwYzY2LjYgMCAxMjAgNTMuNCAxMjAgMTIwcy01My40IDEyMC0xMjAgMTIwem0wLTIyMGMtNTUgMC05MCA0NC45LTkwIDkwczM1IDkwIDkwIDkwYzUyLjUgMCA5MC00NC45IDkwLTkwcy00NC45LTkwLTkwLTkwem0xMiA5MmgzMnYzMGgtMzJ2LTMwem0tMjQtMjZoMjB2NTBoLTIwdjUwSDg4di01MGgyMHYtNTB6Ii8+PC9zdmc+)](https://bento.me/nikithagithub)
-
----
-
-<p style="sans-serif: 'Bonheur Royale', cursive; font-size: 20px; font-weight: italic; color: #333;">
-   "First, solve the problem. Then, write the code." — John Johnson
-</p>
