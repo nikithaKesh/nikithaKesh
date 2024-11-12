@@ -36,10 +36,7 @@ I'm a passionate **Full-Stack Software Engineer in training** with a strong foun
 ### ⚙️ Tech Stack
 
 #### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,10 +59,8 @@ I'm a passionate **Full-Stack Software Engineer in training** with a strong foun
 
 ---
 
-### 🏆 GitHub Achievements
-
 <div align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=nikithaKesh&theme=radical" alt="GitHub Achievements" />
+  <img src="https://github-profile-achievements.vercel.app/api/achievements/nikithaKesh?theme=radical" alt="GitHub Achievements" />
 </div>
 
 ---
