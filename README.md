@@ -6,7 +6,7 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 
 ### About Me
 - 🔭 **Actively Developing**: Building scalable, high-performance web projects.
-- 🎓 **Student at UCSC**: Studying Software Engineering with a focus on data structures, algorithms, and software architecture.
+- 🎓 **Student at UCSC**: Studying Software Engineering focusing on data structures, algorithms, and software architecture.
 - 🌱 **Eager Learner**: Passionate about exploring the latest full-stack development tools and trends.
 - 👥 **Team Collaborator**: Thrive in collaborative environments, sharing ideas, and contributing to team projects.
 
