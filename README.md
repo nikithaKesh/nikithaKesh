@@ -33,13 +33,14 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=radical" alt="GitHub Stats" />
-   <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical" alt="GitHub Streak" />
+<div align="center" style="background-color: #1A1D21; color: #E2E8F0; padding: 20px; border-radius: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px;"/>
+   <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&theme=radical" alt="Top Languages" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=radical" alt="Profile Details" />
+
+<div align="center" style="background-color: #1A1D21; color: #E2E8F0; padding: 20px; border-radius: 10px; margin-top: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px;"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=radical" alt="Profile Details" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
 ---
