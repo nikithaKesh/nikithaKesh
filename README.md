@@ -31,6 +31,7 @@ I'm a passionate **Full-Stack Software Engineer in training** with a strong foun
   - **Tech Stack**: Markdown, Git
   - 🌐 *Demo*: [Live Link](https://github.com/nikithaKesh/UCSC-BIT-Notes) *(if applicable)*
 
+---
 
 ### ⚙️ Tech Stack
 
@@ -59,15 +60,15 @@ I'm a passionate **Full-Stack Software Engineer in training** with a strong foun
 #### Other
 ![Neuroscience](https://img.shields.io/badge/Neuroscience-FF6347?style=for-the-badge&logo=neuroscience&logoColor=white)
 
-### 📝 Recent Blog Posts
-- **[Title of Post 1](#)** - A short summary of the post.
-- **[Title of Post 2](#)** - Another quick summary here.
+---
 
 ### 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-achievements.vercel.app/api/achievements?username=nikithaKesh&theme=radical" alt="GitHub Achievements" />
 </div>
+
+---
 
 ### 📊 GitHub Stats
 
@@ -81,8 +82,7 @@ I'm a passionate **Full-Stack Software Engineer in training** with a strong foun
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nikithaKesh.github.profile" alt="Visitor Count" />
 </div>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=nikithaKesh)
-
+---
 
 ### 🌐 Connect with Me:
 
