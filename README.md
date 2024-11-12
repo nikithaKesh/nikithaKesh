@@ -29,8 +29,8 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 
 ### 📊 GitHub Stats:
 <div align="center" style="background-color: #222831; color: #EEEEEE; padding: 20px; border-radius: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=222831&title_color=76ABAE&text_color=EEEEEE&icon_color=76ABAE" alt="GitHub Stats" style="border-radius: 10px;"/>
-   <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical&background=222831&border=31363F&color=76ABAE" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=28282B&title_color=76ABAE&text_color=EEEEEE&icon_color=76ABAE" alt="GitHub Stats" style="border-radius: 10px;"/>
+   <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical&background=28282B&border=31363F&color=76ABAE" alt="GitHub Streak" style="border-radius: 10px; margin-top: 10px;"/>
 </div>
 
 <div align="center" style="background-color: #28282B; color: #EEEEEE; padding: 20px; border-radius: 10px; margin-top: 10px;">
