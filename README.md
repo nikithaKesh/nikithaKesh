@@ -10,7 +10,6 @@ I'm a passionate **Full-Stack Software Engineer in training** at the **Universit
 - 🌱 **Eager Learner**: Passionate about exploring the latest full-stack development tools and trends.
 - 👥 **Team Collaborator**: Thrive in collaborative environments, sharing ideas, and contributing to team projects.
 
-
 <details>
 <summary> 📂 Featured Repositories </summary>
 
