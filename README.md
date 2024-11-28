@@ -9,7 +9,7 @@
 
 
 <div align="center">
-   <h5> I'm a passionate Full-Stack Software Engineer in training at the University of Colombo School of Computing (UCSC), focused on building dynamic, user-centric web applications. Currently exploring full-stack development, cloud solutions, and DevOps, I love working in collaborative environments and continuously expanding my technical expertise.</h5>
+   <h6> I'm a passionate Full-Stack Software Engineer in training at the University of Colombo School of Computing (UCSC), focused on building dynamic, user-centric web applications. Currently exploring full-stack development, cloud solutions, and DevOps, I love working in collaborative environments and continuously expanding my technical expertise.</h6>
 </div>
 
 ---
