@@ -3,7 +3,10 @@
 </div>
 
 
-### Hi there! 👋 I'm Nikitha Keshan
+<div align="center">
+   <h1> I'm Nikitha Keshan </h1>
+</div>
+
 
 I'm a passionate **Full-Stack Software Engineer in training** at the **University of Colombo School of Computing (UCSC)**, focused on building dynamic, user-centric web applications. Currently exploring full-stack development, cloud solutions, and DevOps, I love working in collaborative environments and continuously expanding my technical expertise.
 
