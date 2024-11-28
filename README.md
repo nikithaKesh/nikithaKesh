@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./workflows/download (1).jpg" alt="Welcome Banner" style="width:100%; height:300px; object-fit:cover;" />
+   <img src="./workflows/Welcome to the Era! (1).gif" alt="Welcome Banner" style="width:100%; height:300px; object-fit:cover;" />
 </div>
 
 
