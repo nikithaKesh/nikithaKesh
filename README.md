@@ -23,8 +23,6 @@
 <details>
 <summary> 📂 Featured Repositories </summary>
 
-### 📂 Featured Repositories
-
 - [🌸 **Growing_flower**](https://github.com/nikithaKesh/growing-flower): *Interactive web app using React and CSS animations.*
 - [🎮 **Gaming Site**](https://github.com/nikithaKesh/gaming-site): *Gaming site with API integration, user profiles.*
 - [📘 **UCSC-BIT-Notes**](https://github.com/nikithaKesh/UCSC-BIT-Notes): *Study notes for UCSC BIT program.*
