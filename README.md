@@ -4,13 +4,13 @@
 
 
 <div align="center">
-   <h1> I'm Nikitha Keshan </h1>
+   <h1> NIKITHA KESHAN </h1>
 </div>
 
 
-<div align="center" >
-   <h5>I'm a passionate <strong>Full-Stack Software Engineer in training</strong> at the <strong>University of Colombo School of Computing (UCSC)</strong>, focused on building dynamic, user-centric web applications. Currently exploring full-stack development, cloud solutions, and DevOps, I love working in collaborative environments and continuously expanding my technical expertise.</h5>
-   </div>
+<div align="center">
+   <h5> I'm a passionate <strong>Full-Stack Software Engineer in training at the University of Colombo School of Computing (UCSC)</strong>, focused on building dynamic, user-centric web applications. Currently exploring full-stack development, cloud solutions, and DevOps, I love working in collaborative environments and continuously expanding my technical expertise.</h5>
+</div>
 
 ---
 
