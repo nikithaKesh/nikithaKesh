@@ -1,3 +1,7 @@
+<div align="center">
+   <img src="https://https://pin.it/3rLHGDwl5" alt="Welcome Banner" width="100%" />
+</div>
+
 ### Hi there! 👋 I'm Nikitha Keshan
 
 I'm a passionate **Full-Stack Software Engineer in training** at the **University of Colombo School of Computing (UCSC)**, focused on building dynamic, user-centric web applications. Currently exploring full-stack development, cloud solutions, and DevOps, I love working in collaborative environments and continuously expanding my technical expertise.
