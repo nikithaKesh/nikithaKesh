@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="./workflows/favd_radic0le-December%2013%202016%20at%2011_19PM.gif" alt="Welcome Banner" width="100%" />
+   <img src="./workflows/favd_radic0le-December%2013%202016%20at%2011_19PM.gif" alt="Welcome Banner" width="50%" />
 </div>
 
 ### Hi there! 👋 I'm Nikitha Keshan
