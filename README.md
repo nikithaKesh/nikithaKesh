@@ -1,6 +1,5 @@
 <div align="center">
-   <img src="![favd_radic0le-December 13 2016 at 11_19PM](https://github.com/user-attachments/assets/fa4803af-777a-47b2-b0ac-859431e0fb1b)
-" alt="Welcome Banner" width="100%" />
+   <img src="./workflows/favd_radic0le-December%2013%202016%20at%2011_19PM.gif" alt="Welcome Banner" width="100%" />
 </div>
 
 ### Hi there! 👋 I'm Nikitha Keshan
