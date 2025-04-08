@@ -27,14 +27,14 @@
 ---
 
 ### GitHub Stats:
-<div align="center" style="background-color: #151515; color: #EEEEEE; padding: 20px; border-radius: 3px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=151515&title_color=edf2f2&text_color=9f9f9f&icon_color=#79ff97"  alt="GitHub Stats" style="border-radius: 3px;"/><img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical&background=151515&border=31363F&color=edf2f2" alt="GitHub Streak" margin-top: 10px;"/>
+<div align="center" style="background-color: #151515; color: #EEEEEE; padding: 20px; border-radius: 0px;">
+   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=151515&title_color=edf2f2&text_color=9f9f9f&icon_color=#79ff97"  alt="GitHub Stats" style="border-radius: 0px;"/><img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical&background=151515&border=31363F&color=edf2f2" alt="GitHub Streak" margin-top: 10px;"/>
 </div>
 
 
 ---
 <div align="center">
- <H4> Thanks for visiting! Follow my journey: </H4>
+ <H4> Connect with me from here! </H4>
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikithakesh) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_zo_no_) [![Bento](https://img.shields.io/badge/Bento-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTIwIDI0MEM1My40IDQwIDAgMCAwIDEyMCAwYzY2LjYgMCAxMjAgNTMuNCAxMjAgMTIwcy01My40IDEyMC0xMjAgMTIwem0wLTIyMGMtNTUgMC05MCA0NC45LTkwIDkwczM1IDkwIDkwIDkwYzUyLjUgMCA5MC00NC45IDkwLTkwcy00NC45LTkwLTkwLTkwem0xMiA5MmgzMnYzMGgtMzJ2LTMwem0tMjQtMjZoMjB2NTBoLTIwdjUwSDg4di01MGgyMHYtNTB6Ii8+PC9zdmc+)](https://bento.me/nikithagithub)
