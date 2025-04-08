@@ -28,7 +28,7 @@
 
 ### GitHub Stats:
 <div align="center" style="background-color: #11121c; color: #EEEEEE; padding: 10px; border-radius: 0px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=11121c&title_color=edf2f2&text_color=9f9f9f&icon_color=#79ff97"  alt="GitHub Stats" style="border-radius: 0px;"/> <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical&background=11121c&border=31363F&color=edf2f2" alt="GitHub Streak" margin-top: 10px;"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&theme=dark&bg_color=11121c&title_color=edf2f2&text_color=9f9f9f&icon_color=#79b5ff"  alt="GitHub Stats" style="border-radius: 0px;"/> <img src="https://streak-stats.demolab.com/?user=nikithaKesh&theme=radical&background=11121c&border=31363F&color=edf2f2" alt="GitHub Streak" margin-top: 10px;"/>
 </div>
 
 
