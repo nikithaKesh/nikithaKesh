@@ -15,10 +15,10 @@
 ---
 
 ### About Me
--  **Actively Developing**: Building scalable, high-performance web projects.
--  **Student at UCSC**: Studying Software Engineering, focusing on data structures, algorithms, and software architecture.
--  **Eager Learner**: Passionate about exploring the latest full-stack development tools and trends.
--  **Team Collaborator**: Thrive in collaborative environments, sharing ideas and contributing to team projects.
+-  **Actively Developing**: <h6> Building scalable, high-performance web projects. </h6>
+-  **Student at UCSC**: <h6> Studying Software Engineering, focusing on data structures, algorithms, and software architecture. </h6>
+-  **Eager Learner**: <h6> Passionate about exploring the latest full-stack development tools and trends. </h6>
+-  **Team Collaborator**: <h6> Thrive in collaborative environments, sharing ideas and contributing to team projects. </h6>
 
 
 ### Tech Stack:
