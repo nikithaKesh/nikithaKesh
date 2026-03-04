@@ -40,12 +40,16 @@
 ### GitHub Stats:
 <div align="center" style="background: linear-gradient(145deg, #11121c, #16172a); padding: 25px; border-radius: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);">
 
-  <img height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=nord&bg_color=0d1117&title_color=88c0d0&text_color=d8dee9&icon_color=81a1c1"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=nord&bg_color=0d1117&title_color=88c0d0&text_color=d8dee9&icon_color=81a1c1" 
+    alt="Nikitha GitHub Stats"
   />
 
-  <img height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&hide_border=true&theme=nord&bg_color=0d1117&title_color=88c0d0&text_color=d8dee9"
+  <br/><br/>
+
+  <img 
+    src="https://streak-stats.demolab.com?user=nikithaKesh&theme=nord&hide_border=true&background=0d1117&ring=88c0d0&fire=81a1c1&currStreakLabel=d8dee9" 
+    alt="GitHub Streak"
   />
 
 </div>
