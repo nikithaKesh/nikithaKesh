@@ -40,8 +40,6 @@ const nikitha = {
 
 ## Tech Stack
 
-## Tech Stack
-
 <div align="center">
 
 | Category | Skills |
@@ -87,14 +85,11 @@ const nikitha = {
 
 ---
 
----
-
 ## Contribution Snapshot
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=tokyonight" width="90%"/>
 </div>
-
 <br/>
 
 <div align="center">
