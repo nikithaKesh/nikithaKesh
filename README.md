@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Nikitha Keshan Gomes</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Automation+Builder;Web+Developer;Business+Systems+Creator;Building+clean%2C+useful+%26+scalable+solutions" alt="Typing SVG" />
 </div>
@@ -112,5 +111,8 @@ const nikitha = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikithakesh)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_zo_no_)[![Bento](https://img.shields.io/badge/Bento-333333?style=for-the-badge&logoColor=white)](https://bento.me/nikithagithub)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikithaKesh)  [![GitHub followers](https://img.shields.io/github/followers/nikithaKesh?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=2563EB)](https://github.com/nikithaKesh)[![GitHub stars](https://img.shields.io/github/stars/nikithaKesh?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=F59E0B)](https://github.com/nikithaKesh)[![Profile Views](https://komarev.com/ghpvc/?username=nikithaKesh&style=for-the-badge&label=Profile+Views&color=2563EB)](https://github.com/nikithaKesh)
+</div>
 
+<div align="center">
+  <img src="./workflows/Welcome to the Era! (1).gif" alt="Welcome Banner" style="width:100%; height:220px; object-fit:cover;" />
 </div>
