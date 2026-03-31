@@ -139,6 +139,3 @@ const nikitha = {
 \</picture\>
 
 \</div\>
-
-```
-```
