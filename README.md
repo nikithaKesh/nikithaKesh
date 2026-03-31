@@ -9,11 +9,10 @@
 
 <div align="center">
 <h5> Software Developer | Automation Builder | Web Developer</h5>
-<h5>Turning ideas into practical systems and digital experiences.</h5>
 </div>
   
 <div align="center">
-   <h6> I'm a passionate Full-Stack Software Engineer in training at the University of Colombo School of Computing (UCSC), focused on building dynamic, user-centric web applications. Currently exploring full-stack development, cloud solutions, and DevOps. I love working in collaborative environments and continuously expanding my technical expertise.</h6>
+   <h6> I’m an undergraduate at the University of Colombo School of Computing (UCSC) with a strong interest in software development, web applications, automation, and business systems. I enjoy building practical digital solutions that are clean, useful, and scalable.</h6>
 </div>
 
 ---
