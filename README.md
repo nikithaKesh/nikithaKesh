@@ -4,8 +4,6 @@
 
 <h1 align="center">Nikitha Keshan</h1>
 
-<h3 align="center">Software Developer • Automation Builder • Web Developer</h3>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Automation+Builder;Web+Developer;Business+Systems+Creator;Building+clean%2C+useful+%26+scalable+solutions" alt="Typing SVG" />
 </div>
