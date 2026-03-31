@@ -1,141 +1,174 @@
 <div align="center">
-   <img src="./workflows/Welcome to the Era! (1).gif" alt="Welcome Banner" style="width:100%; height:200px; object-fit:cover; border-radius: 15px;" />
+  <img src="./workflows/Welcome to the Era! (1).gif" alt="Welcome Banner" style="width:100%; height:220px; object-fit:cover;" />
 </div>
 
-# 👋 Hi there, I'm Nikitha Keshan!
+<h1 align="center">Nikitha Keshan</h1>
+
+<h3 align="center">Software Developer • Automation Builder • Web Developer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+%F0%9F%92%BB;Automation+Builder+%E2%9A%99%EF%B8%8F;Web+Developer+%F0%9F%8C%90;UCSC+Undergrad+%F0%9F%8E%93;Always+Building+%26+Scaling!&font=Fira%20Code&center=true&width=600&height=50&color=88c0d0&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Automation+Builder;Web+Developer;Business+Systems+Creator;Building+clean%2C+useful+%26+scalable+solutions" alt="Typing SVG" />
 </div>
+
+<br/>
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/nikithaKesh?label=Follow&style=for-the-badge&logo=github&logoColor=white&labelColor=2F3136&color=88c0d0)](https://github.com/nikithaKesh)
-  [![GitHub stars](https://img.shields.io/github/stars/nikithaKesh?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=2F3136&color=EBCB8B)](https://github.com/nikithaKesh)
-  [![Profile Views](https://komarev.com/ghpvc/?username=nikithaKesh&color=81a1c1&style=for-the-badge&label=Profile+Views)](https://github.com/nikithaKesh)
-  
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/nikithaKesh?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=2563EB)](https://github.com/nikithaKesh)
+[![GitHub stars](https://img.shields.io/github/stars/nikithaKesh?label=Stars&style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=F59E0B)](https://github.com/nikithaKesh)
+[![Profile Views](https://komarev.com/ghpvc/?username=nikithaKesh&style=for-the-badge&label=Profile+Views&color=2563EB)](https://github.com/nikithaKesh)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="80" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" width="80" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;Building+Practical+Digital+Solutions;Bridging+IT+%26+Marketing;Clean,+Useful,+and+Scalable+Code&font=Fira%20Code&center=true&width=600&height=100&color=81a1c1&vCenter=true&pause=1000&size=20" alt="Profile Banner" />
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const nikitha = {
-    location: "Colombo, Sri Lanka 🇱🇰",
-    education: "Undergraduate at University of Colombo School of Computing (UCSC)",
-    role: "Software Engineer & Automation Builder",
-    currentFocus: "Building CodeNest & developing web/brand solutions for Alpha Brand Solutions",
-    interests: ["Software Architecture", "Business Systems", "Data Structures & Algorithms"],
-    hobbies: ["Hitting the gym & staying shredded 💪", "Watching One Piece 🏴‍☠️", "Trying new hairstyles 💈"],
-    funFact: "I channel my inner Roronoa Zoro when slicing through difficult bugs! ⚔️"
+  location: "Sri Lanka",
+  education: "Undergraduate at University of Colombo School of Computing (UCSC)",
+  role: "Software Developer | Automation Builder | Web Developer",
+  focus: [
+    "Web development",
+    "Business systems",
+    "Workflow automation",
+    "Internal tools",
+    "Dashboards and reporting"
+  ],
+  currentlyBuilding: "Practical digital solutions that are clean, useful, and scalable",
+  mindset: "Always learning, improving, and building real-world systems"
 };
-````
+```
 
-  - 🔭 Currently working on **CodeNest**, a company merging IT and marketing, and building web presence for **Alpha Brand Solutions**.
-  - 🌱 Deep diving into **data structures, algorithms, and full-stack architecture** at UCSC.
-  - 💡 Passionate about building **practical digital solutions** that are clean, useful, and scalable.
-  - 👯 Open to collaborate on **high-performance web projects** and **automation tools**.
-  - 💬 Ask me about **Web Development, Automation, and Business Systems**.
+- Building practical software, web applications, and automation systems  
+- Interested in scalable digital products, business workflows, and clean UI  
+- Enjoy creating websites, internal tools, dashboards, and process improvements  
+- Focused on growing as a strong software engineer through real projects and consistent learning  
 
------
+---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack
 
-\<div align="center"\>
+<div align="center">
 
-### 💻 Programming Languages
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend & Mobile Development
+### Web & App Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🗄️ Databases & Systems
+### Automation, Data & Tools
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-\</div\>
+### Design & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
------
+</div>
 
-## 📊 GitHub Analytics
+---
 
-\<div align="center"\>
-\<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DnikithaKesh%26show\_icons%3Dtrue%26theme%3Dnord%26include\_all\_commits%3Dtrue%26count\_private%3Dtrue%26hide\_border%3Dtrue%26bg\_color%3D0d1117%26title\_color%3D88c0d0%26text\_color%3Dd8dee9%26icon\_color%3D81a1c1"/\>
-\<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DnikithaKesh%26layout%3Dcompact%26langs\_count%3D8%26theme%3Dnord%26hide\_border%3Dtrue%26bg\_color%3D0d1117%26title\_color%3D88c0d0%26text\_color%3Dd8dee9"/\>
-\</div\>
+## What I Build
 
-\<div align="center"\>
-\<img width="100%" src="https://streak-stats.demolab.com?user=nikithaKesh\&theme=nord\&hide\_border=true\&background=0d1117\&ring=88c0d0\&fire=81a1c1\&currStreakLabel=d8dee9"/\>
-\</div\>
+<div align="center">
 
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DnikithaKesh%26theme%3Dnord%26hide\_border%3Dtrue%26area%3Dtrue%26bg\_color%3D0D1117%26color%3D88c0d0%26line%3D81a1c1%26point%3D88c0d0" width="100%"/\>
-\</div\>
+| Area | Description |
+|------|-------------|
+| **Web Development** | Clean, modern websites and user-focused web interfaces |
+| **Automation Systems** | Workflow automation, process simplification, and operational efficiency tools |
+| **Business Tools** | Internal systems, dashboards, reporting tools, and productivity solutions |
+| **Software Projects** | Practical applications built to solve real problems and improve systems |
 
------
+</div>
 
-## 🎯 Featured Projects
+---
 
-\<table\>
-\<tr\>
-\<td width="50%"\>
-\<h3 align="center"\>CodeNest 🚀\</h3\>
-\<div align="center"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-In\_Development-88c0d0%3Fstyle%3Dfor-the-badge" alt="Status"/\>
-\<p\>\<strong\>Tech & Marketing Fusion\</strong\> A startup initiative merging innovative IT solutions with strategic marketing approaches to deliver comprehensive business systems.\</p\>
-\</div\>
-\</td\>
-\<td width="50%"\>
-\<h3 align="center"\>Alpha Brand Solutions 💼\</h3\>
-\<div align="center"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Role-Lead\_Developer-81a1c1%3Fstyle%3Dfor-the-badge" alt="Role"/\>
-\<p\>\<strong\>Web & Brand Identity\</strong\> Engineered the website architecture and established the digital brand identity for a growing tech and marketing agency.\</p\>
-\</div\>
-\</td\>
-\</tr\>
-\</table\>
+## GitHub Analytics
 
------
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikithaKesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithaKesh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+</div>
 
-## 🤝 Let's Connect
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=nikithaKesh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-\<div align="center"\>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikithaKesh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</div>
 
-[](https://linkedin.com/in/nikithakesh)
-[](https://www.google.com/search?q=https://twitter.com/_zo_no_)
-[](https://bento.me/nikithagithub)
+---
 
-\</div\>
+## Current Focus
 
------
+- Building stronger real-world software projects  
+- Improving full-stack development skills  
+- Creating automation systems that solve business problems  
+- Growing a portfolio that reflects practical, high-value work  
 
-\<div align="center"\>
+---
 
-### 🎵 Current Vibe
+## Connect With Me
 
-[](https://www.google.com/search?q=https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb)
+<div align="center">
 
------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikithakesh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_zo_no_)
+[![Bento](https://img.shields.io/badge/Bento-333333?style=for-the-badge&logoColor=white)](https://bento.me/nikithagithub)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikithaKesh)
 
-\<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D13,17,23%26height%3D170%26section%3Dfooter%26text%3DKeep%2520Building\!%26fontSize%3D42%26fontColor%3D88c0d0%26animation%3Dtwinkling%26fontAlignY%3D72"/\>
+</div>
 
-\</div\>
+---
 
------
+## Contribution Snapshot
 
-\<div align="center"\>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=tokyonight" width="100%"/>
+</div>
 
-\<picture\>
-\<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"\>
-\<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"\>
-\<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"\>
-\</picture\>
+<br/>
 
-\</div\>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikithaKesh&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikithaKesh&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikithaKesh&theme=tokyonight" width="32%"/>
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile
+
+**Building useful things, one project at a time.**
+
+</div>
