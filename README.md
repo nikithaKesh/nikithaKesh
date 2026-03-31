@@ -101,9 +101,9 @@ const nikitha = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikithaKesh&theme=nord&bg_color=0d1117&title_color=88c0d0&text_color=d8dee9&icon_color=81a1c1" width="32.5%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikithaKesh&theme=nord&bg_color=0d1117&title_color=88c0d0&text_color=d8dee9&icon_color=81a1c1" width="32.5%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikithaKesh&theme=nord&bg_color=0d1117&title_color=88c0d0&text_color=d8dee9&icon_color=81a1c1" width="32.5%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikithaKesh&theme=nord" width="32.5%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikithaKesh&theme=nord" width="32.5%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikithaKesh&theme=nord" width="32.5%"/>
 </div>
 
 ---
