@@ -1,11 +1,6 @@
-<h1 align="center">Nikitha Keshan Gomes</h1>
-<div align="center">
-  <img src="./workflows/Welcome to the Era! (1).gif" alt="Welcome Banner" style="width:100%; height:220px; object-fit:cover;" />
-</div>
-
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=70&lines=Software+Developer;Automation+Builder;Web+Developer;Business+Systems+Creator;Building+clean%2C+useful+%26+scalable+solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1200&color=58A6FF&background=16172A&center=true&vCenter=true&width=1100&height=80&lines=Welcome+to+my+GitHub;I'm+Nikitha+Keshan;Software+Developer;Automation+Builder;Building+practical+digital+solutions"
     alt="Typing SVG"
   />
 </div>
