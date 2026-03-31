@@ -19,7 +19,7 @@
 
 ### About Me
 -  **Actively Developing**: Building scalable, high-performance web projects.
--  **Student at UCSC**: Studying Software Engineering, focusing on data structures, algorithms, and software architecture.
+-  **Student at UCSC**: Studying Information Technology, focusing on data structures, algorithms, and software architecture.
 -  **Eager Learner**: Passionate about exploring the latest full-stack development tools and trends.
 -  **Team Collaborator**: Thrive in collaborative environments, sharing ideas and contributing to team projects.
 
@@ -54,7 +54,6 @@
     src="https://streak-stats.demolab.com?user=nikithaKesh&theme=nord&hide_border=true&background=0d1117&ring=88c0d0&fire=81a1c1&currStreakLabel=d8dee9" 
     alt="GitHub Streak"
   />
-
 </div>
 
 
