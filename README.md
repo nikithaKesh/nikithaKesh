@@ -88,7 +88,7 @@ const nikitha = {
 ## Contribution Snapshot
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=tokyonight" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikithaKesh&theme=tokyonight" width="110%"/>
 </div>
 <br/>
 
