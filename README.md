@@ -1,10 +1,13 @@
+<h1 align="center">Nikitha Keshan Gomes</h1>
 <div align="center">
   <img src="./workflows/Welcome to the Era! (1).gif" alt="Welcome Banner" style="width:100%; height:220px; object-fit:cover;" />
 </div>
 
-<h1 align="center">Nikitha Keshan Gomes</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Automation+Builder;Web+Developer;Business+Systems+Creator;Building+clean%2C+useful+%26+scalable+solutions" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=70&lines=Software+Developer;Automation+Builder;Web+Developer;Business+Systems+Creator;Building+clean%2C+useful+%26+scalable+solutions"
+    alt="Typing SVG"
+  />
 </div>
 
 <br/>
@@ -70,7 +73,7 @@ const nikitha = {
 ## GitHub Analytics
 
 <div align="center">
-  <img width="50%" src="https://streak-stats.demolab.com?user=nikithaKesh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikithaKesh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=nikithaKesh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikithaKesh&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
