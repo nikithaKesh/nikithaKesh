@@ -13,7 +13,7 @@
 
 ```javascript
 const nikitha = {
-  location: "Sri Lanka",
+  location: "Sa",
   education: "Undergraduate at University of Colombo School of Computing (UCSC)",
   role: "Software Developer | Automation Builder | Web Developer",
   focus: [
